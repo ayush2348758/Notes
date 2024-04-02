@@ -1,1 +1,1 @@
-# Sketch Application using Java Script.
+# Sketch Application using Java Script. Can Work only on laptops or COmputers
